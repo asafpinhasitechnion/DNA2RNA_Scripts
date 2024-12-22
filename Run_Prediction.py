@@ -50,7 +50,7 @@ class Arguments ():
 args = Arguments()
 args.model = 'XGBoost'
 args.cancer_type = 'all'
-args.cv_mode = 'normal'
+args.cv_mode = 'cross_cancer'
 args.use_expression = False
 
 # Suffix for filenames
