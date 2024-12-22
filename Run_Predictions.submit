@@ -1,0 +1,10 @@
+Universe = vanilla
+Executable = /Local/md_keren/anaconda3/bin/python
+Arguments = $(arguments_line)
+Output = messages/out.$(Process).txt
+Error = messages/error.$(Process).txt
+Log = messages/log.$(Process).txt
+RequestCpus = 1
+RequestMemory = 7GB
+max_materialize = 200
+Queue arguments_line from commands.txt

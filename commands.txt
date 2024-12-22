@@ -1,0 +1,440 @@
+Run_Prediction.py --model LogisticRegression --cancer_type all
+Run_Prediction.py --model LogisticRegression --cancer_type BLCA
+Run_Prediction.py --model LogisticRegression --cancer_type COAD
+Run_Prediction.py --model LogisticRegression --cancer_type HNSC
+Run_Prediction.py --model LogisticRegression --cancer_type LUAD
+Run_Prediction.py --model LogisticRegression --cancer_type PAAD
+Run_Prediction.py --model LogisticRegression --cancer_type SKCM
+Run_Prediction.py --model LogisticRegression --cancer_type STAD
+Run_Prediction.py --model RandomForest --cancer_type all
+Run_Prediction.py --model RandomForest --cancer_type BLCA
+Run_Prediction.py --model RandomForest --cancer_type COAD
+Run_Prediction.py --model RandomForest --cancer_type HNSC
+Run_Prediction.py --model RandomForest --cancer_type LUAD
+Run_Prediction.py --model RandomForest --cancer_type PAAD
+Run_Prediction.py --model RandomForest --cancer_type SKCM
+Run_Prediction.py --model RandomForest --cancer_type STAD
+Run_Prediction.py --model RandomForest --cancer_type all --n_estimators 50 --max_depth 3
+Run_Prediction.py --model RandomForest --cancer_type BLCA --n_estimators 50 --max_depth 3
+Run_Prediction.py --model RandomForest --cancer_type COAD --n_estimators 50 --max_depth 3
+Run_Prediction.py --model RandomForest --cancer_type HNSC --n_estimators 50 --max_depth 3
+Run_Prediction.py --model RandomForest --cancer_type LUAD --n_estimators 50 --max_depth 3
+Run_Prediction.py --model RandomForest --cancer_type PAAD --n_estimators 50 --max_depth 3
+Run_Prediction.py --model RandomForest --cancer_type SKCM --n_estimators 50 --max_depth 3
+Run_Prediction.py --model RandomForest --cancer_type STAD --n_estimators 50 --max_depth 3
+Run_Prediction.py --model RandomForest --cancer_type all --n_estimators 50 --max_depth 6
+Run_Prediction.py --model RandomForest --cancer_type BLCA --n_estimators 50 --max_depth 6
+Run_Prediction.py --model RandomForest --cancer_type COAD --n_estimators 50 --max_depth 6
+Run_Prediction.py --model RandomForest --cancer_type HNSC --n_estimators 50 --max_depth 6
+Run_Prediction.py --model RandomForest --cancer_type LUAD --n_estimators 50 --max_depth 6
+Run_Prediction.py --model RandomForest --cancer_type PAAD --n_estimators 50 --max_depth 6
+Run_Prediction.py --model RandomForest --cancer_type SKCM --n_estimators 50 --max_depth 6
+Run_Prediction.py --model RandomForest --cancer_type STAD --n_estimators 50 --max_depth 6
+Run_Prediction.py --model RandomForest --cancer_type all --n_estimators 50 --max_depth 9
+Run_Prediction.py --model RandomForest --cancer_type BLCA --n_estimators 50 --max_depth 9
+Run_Prediction.py --model RandomForest --cancer_type COAD --n_estimators 50 --max_depth 9
+Run_Prediction.py --model RandomForest --cancer_type HNSC --n_estimators 50 --max_depth 9
+Run_Prediction.py --model RandomForest --cancer_type LUAD --n_estimators 50 --max_depth 9
+Run_Prediction.py --model RandomForest --cancer_type PAAD --n_estimators 50 --max_depth 9
+Run_Prediction.py --model RandomForest --cancer_type SKCM --n_estimators 50 --max_depth 9
+Run_Prediction.py --model RandomForest --cancer_type STAD --n_estimators 50 --max_depth 9
+Run_Prediction.py --model RandomForest --cancer_type all --n_estimators 100 --max_depth 3
+Run_Prediction.py --model RandomForest --cancer_type BLCA --n_estimators 100 --max_depth 3
+Run_Prediction.py --model RandomForest --cancer_type COAD --n_estimators 100 --max_depth 3
+Run_Prediction.py --model RandomForest --cancer_type HNSC --n_estimators 100 --max_depth 3
+Run_Prediction.py --model RandomForest --cancer_type LUAD --n_estimators 100 --max_depth 3
+Run_Prediction.py --model RandomForest --cancer_type PAAD --n_estimators 100 --max_depth 3
+Run_Prediction.py --model RandomForest --cancer_type SKCM --n_estimators 100 --max_depth 3
+Run_Prediction.py --model RandomForest --cancer_type STAD --n_estimators 100 --max_depth 3
+Run_Prediction.py --model RandomForest --cancer_type all --n_estimators 100 --max_depth 6
+Run_Prediction.py --model RandomForest --cancer_type BLCA --n_estimators 100 --max_depth 6
+Run_Prediction.py --model RandomForest --cancer_type COAD --n_estimators 100 --max_depth 6
+Run_Prediction.py --model RandomForest --cancer_type HNSC --n_estimators 100 --max_depth 6
+Run_Prediction.py --model RandomForest --cancer_type LUAD --n_estimators 100 --max_depth 6
+Run_Prediction.py --model RandomForest --cancer_type PAAD --n_estimators 100 --max_depth 6
+Run_Prediction.py --model RandomForest --cancer_type SKCM --n_estimators 100 --max_depth 6
+Run_Prediction.py --model RandomForest --cancer_type STAD --n_estimators 100 --max_depth 6
+Run_Prediction.py --model RandomForest --cancer_type all --n_estimators 100 --max_depth 9
+Run_Prediction.py --model RandomForest --cancer_type BLCA --n_estimators 100 --max_depth 9
+Run_Prediction.py --model RandomForest --cancer_type COAD --n_estimators 100 --max_depth 9
+Run_Prediction.py --model RandomForest --cancer_type HNSC --n_estimators 100 --max_depth 9
+Run_Prediction.py --model RandomForest --cancer_type LUAD --n_estimators 100 --max_depth 9
+Run_Prediction.py --model RandomForest --cancer_type PAAD --n_estimators 100 --max_depth 9
+Run_Prediction.py --model RandomForest --cancer_type SKCM --n_estimators 100 --max_depth 9
+Run_Prediction.py --model RandomForest --cancer_type STAD --n_estimators 100 --max_depth 9
+Run_Prediction.py --model RandomForest --cancer_type all --n_estimators 200 --max_depth 3
+Run_Prediction.py --model RandomForest --cancer_type BLCA --n_estimators 200 --max_depth 3
+Run_Prediction.py --model RandomForest --cancer_type COAD --n_estimators 200 --max_depth 3
+Run_Prediction.py --model RandomForest --cancer_type HNSC --n_estimators 200 --max_depth 3
+Run_Prediction.py --model RandomForest --cancer_type LUAD --n_estimators 200 --max_depth 3
+Run_Prediction.py --model RandomForest --cancer_type PAAD --n_estimators 200 --max_depth 3
+Run_Prediction.py --model RandomForest --cancer_type SKCM --n_estimators 200 --max_depth 3
+Run_Prediction.py --model RandomForest --cancer_type STAD --n_estimators 200 --max_depth 3
+Run_Prediction.py --model RandomForest --cancer_type all --n_estimators 200 --max_depth 6
+Run_Prediction.py --model RandomForest --cancer_type BLCA --n_estimators 200 --max_depth 6
+Run_Prediction.py --model RandomForest --cancer_type COAD --n_estimators 200 --max_depth 6
+Run_Prediction.py --model RandomForest --cancer_type HNSC --n_estimators 200 --max_depth 6
+Run_Prediction.py --model RandomForest --cancer_type LUAD --n_estimators 200 --max_depth 6
+Run_Prediction.py --model RandomForest --cancer_type PAAD --n_estimators 200 --max_depth 6
+Run_Prediction.py --model RandomForest --cancer_type SKCM --n_estimators 200 --max_depth 6
+Run_Prediction.py --model RandomForest --cancer_type STAD --n_estimators 200 --max_depth 6
+Run_Prediction.py --model RandomForest --cancer_type all --n_estimators 200 --max_depth 9
+Run_Prediction.py --model RandomForest --cancer_type BLCA --n_estimators 200 --max_depth 9
+Run_Prediction.py --model RandomForest --cancer_type COAD --n_estimators 200 --max_depth 9
+Run_Prediction.py --model RandomForest --cancer_type HNSC --n_estimators 200 --max_depth 9
+Run_Prediction.py --model RandomForest --cancer_type LUAD --n_estimators 200 --max_depth 9
+Run_Prediction.py --model RandomForest --cancer_type PAAD --n_estimators 200 --max_depth 9
+Run_Prediction.py --model RandomForest --cancer_type SKCM --n_estimators 200 --max_depth 9
+Run_Prediction.py --model RandomForest --cancer_type STAD --n_estimators 200 --max_depth 9
+Run_Prediction.py --model SVM --cancer_type all
+Run_Prediction.py --model SVM --cancer_type BLCA
+Run_Prediction.py --model SVM --cancer_type COAD
+Run_Prediction.py --model SVM --cancer_type HNSC
+Run_Prediction.py --model SVM --cancer_type LUAD
+Run_Prediction.py --model SVM --cancer_type PAAD
+Run_Prediction.py --model SVM --cancer_type SKCM
+Run_Prediction.py --model SVM --cancer_type STAD
+Run_Prediction.py --model XGBoost --cancer_type all
+Run_Prediction.py --model XGBoost --cancer_type BLCA
+Run_Prediction.py --model XGBoost --cancer_type COAD
+Run_Prediction.py --model XGBoost --cancer_type HNSC
+Run_Prediction.py --model XGBoost --cancer_type LUAD
+Run_Prediction.py --model XGBoost --cancer_type PAAD
+Run_Prediction.py --model XGBoost --cancer_type SKCM
+Run_Prediction.py --model XGBoost --cancer_type STAD
+Run_Prediction.py --model XGBoost --cancer_type all --n_estimators 50 --learning_rate 0.01 --max_depth 3
+Run_Prediction.py --model XGBoost --cancer_type BLCA --n_estimators 50 --learning_rate 0.01 --max_depth 3
+Run_Prediction.py --model XGBoost --cancer_type COAD --n_estimators 50 --learning_rate 0.01 --max_depth 3
+Run_Prediction.py --model XGBoost --cancer_type HNSC --n_estimators 50 --learning_rate 0.01 --max_depth 3
+Run_Prediction.py --model XGBoost --cancer_type LUAD --n_estimators 50 --learning_rate 0.01 --max_depth 3
+Run_Prediction.py --model XGBoost --cancer_type PAAD --n_estimators 50 --learning_rate 0.01 --max_depth 3
+Run_Prediction.py --model XGBoost --cancer_type SKCM --n_estimators 50 --learning_rate 0.01 --max_depth 3
+Run_Prediction.py --model XGBoost --cancer_type STAD --n_estimators 50 --learning_rate 0.01 --max_depth 3
+Run_Prediction.py --model XGBoost --cancer_type all --n_estimators 50 --learning_rate 0.01 --max_depth 6
+Run_Prediction.py --model XGBoost --cancer_type BLCA --n_estimators 50 --learning_rate 0.01 --max_depth 6
+Run_Prediction.py --model XGBoost --cancer_type COAD --n_estimators 50 --learning_rate 0.01 --max_depth 6
+Run_Prediction.py --model XGBoost --cancer_type HNSC --n_estimators 50 --learning_rate 0.01 --max_depth 6
+Run_Prediction.py --model XGBoost --cancer_type LUAD --n_estimators 50 --learning_rate 0.01 --max_depth 6
+Run_Prediction.py --model XGBoost --cancer_type PAAD --n_estimators 50 --learning_rate 0.01 --max_depth 6
+Run_Prediction.py --model XGBoost --cancer_type SKCM --n_estimators 50 --learning_rate 0.01 --max_depth 6
+Run_Prediction.py --model XGBoost --cancer_type STAD --n_estimators 50 --learning_rate 0.01 --max_depth 6
+Run_Prediction.py --model XGBoost --cancer_type all --n_estimators 50 --learning_rate 0.01 --max_depth 9
+Run_Prediction.py --model XGBoost --cancer_type BLCA --n_estimators 50 --learning_rate 0.01 --max_depth 9
+Run_Prediction.py --model XGBoost --cancer_type COAD --n_estimators 50 --learning_rate 0.01 --max_depth 9
+Run_Prediction.py --model XGBoost --cancer_type HNSC --n_estimators 50 --learning_rate 0.01 --max_depth 9
+Run_Prediction.py --model XGBoost --cancer_type LUAD --n_estimators 50 --learning_rate 0.01 --max_depth 9
+Run_Prediction.py --model XGBoost --cancer_type PAAD --n_estimators 50 --learning_rate 0.01 --max_depth 9
+Run_Prediction.py --model XGBoost --cancer_type SKCM --n_estimators 50 --learning_rate 0.01 --max_depth 9
+Run_Prediction.py --model XGBoost --cancer_type STAD --n_estimators 50 --learning_rate 0.01 --max_depth 9
+Run_Prediction.py --model XGBoost --cancer_type all --n_estimators 50 --learning_rate 0.1 --max_depth 3
+Run_Prediction.py --model XGBoost --cancer_type BLCA --n_estimators 50 --learning_rate 0.1 --max_depth 3
+Run_Prediction.py --model XGBoost --cancer_type COAD --n_estimators 50 --learning_rate 0.1 --max_depth 3
+Run_Prediction.py --model XGBoost --cancer_type HNSC --n_estimators 50 --learning_rate 0.1 --max_depth 3
+Run_Prediction.py --model XGBoost --cancer_type LUAD --n_estimators 50 --learning_rate 0.1 --max_depth 3
+Run_Prediction.py --model XGBoost --cancer_type PAAD --n_estimators 50 --learning_rate 0.1 --max_depth 3
+Run_Prediction.py --model XGBoost --cancer_type SKCM --n_estimators 50 --learning_rate 0.1 --max_depth 3
+Run_Prediction.py --model XGBoost --cancer_type STAD --n_estimators 50 --learning_rate 0.1 --max_depth 3
+Run_Prediction.py --model XGBoost --cancer_type all --n_estimators 50 --learning_rate 0.1 --max_depth 6
+Run_Prediction.py --model XGBoost --cancer_type BLCA --n_estimators 50 --learning_rate 0.1 --max_depth 6
+Run_Prediction.py --model XGBoost --cancer_type COAD --n_estimators 50 --learning_rate 0.1 --max_depth 6
+Run_Prediction.py --model XGBoost --cancer_type HNSC --n_estimators 50 --learning_rate 0.1 --max_depth 6
+Run_Prediction.py --model XGBoost --cancer_type LUAD --n_estimators 50 --learning_rate 0.1 --max_depth 6
+Run_Prediction.py --model XGBoost --cancer_type PAAD --n_estimators 50 --learning_rate 0.1 --max_depth 6
+Run_Prediction.py --model XGBoost --cancer_type SKCM --n_estimators 50 --learning_rate 0.1 --max_depth 6
+Run_Prediction.py --model XGBoost --cancer_type STAD --n_estimators 50 --learning_rate 0.1 --max_depth 6
+Run_Prediction.py --model XGBoost --cancer_type all --n_estimators 50 --learning_rate 0.1 --max_depth 9
+Run_Prediction.py --model XGBoost --cancer_type BLCA --n_estimators 50 --learning_rate 0.1 --max_depth 9
+Run_Prediction.py --model XGBoost --cancer_type COAD --n_estimators 50 --learning_rate 0.1 --max_depth 9
+Run_Prediction.py --model XGBoost --cancer_type HNSC --n_estimators 50 --learning_rate 0.1 --max_depth 9
+Run_Prediction.py --model XGBoost --cancer_type LUAD --n_estimators 50 --learning_rate 0.1 --max_depth 9
+Run_Prediction.py --model XGBoost --cancer_type PAAD --n_estimators 50 --learning_rate 0.1 --max_depth 9
+Run_Prediction.py --model XGBoost --cancer_type SKCM --n_estimators 50 --learning_rate 0.1 --max_depth 9
+Run_Prediction.py --model XGBoost --cancer_type STAD --n_estimators 50 --learning_rate 0.1 --max_depth 9
+Run_Prediction.py --model XGBoost --cancer_type all --n_estimators 100 --learning_rate 0.01 --max_depth 3
+Run_Prediction.py --model XGBoost --cancer_type BLCA --n_estimators 100 --learning_rate 0.01 --max_depth 3
+Run_Prediction.py --model XGBoost --cancer_type COAD --n_estimators 100 --learning_rate 0.01 --max_depth 3
+Run_Prediction.py --model XGBoost --cancer_type HNSC --n_estimators 100 --learning_rate 0.01 --max_depth 3
+Run_Prediction.py --model XGBoost --cancer_type LUAD --n_estimators 100 --learning_rate 0.01 --max_depth 3
+Run_Prediction.py --model XGBoost --cancer_type PAAD --n_estimators 100 --learning_rate 0.01 --max_depth 3
+Run_Prediction.py --model XGBoost --cancer_type SKCM --n_estimators 100 --learning_rate 0.01 --max_depth 3
+Run_Prediction.py --model XGBoost --cancer_type STAD --n_estimators 100 --learning_rate 0.01 --max_depth 3
+Run_Prediction.py --model XGBoost --cancer_type all --n_estimators 100 --learning_rate 0.01 --max_depth 6
+Run_Prediction.py --model XGBoost --cancer_type BLCA --n_estimators 100 --learning_rate 0.01 --max_depth 6
+Run_Prediction.py --model XGBoost --cancer_type COAD --n_estimators 100 --learning_rate 0.01 --max_depth 6
+Run_Prediction.py --model XGBoost --cancer_type HNSC --n_estimators 100 --learning_rate 0.01 --max_depth 6
+Run_Prediction.py --model XGBoost --cancer_type LUAD --n_estimators 100 --learning_rate 0.01 --max_depth 6
+Run_Prediction.py --model XGBoost --cancer_type PAAD --n_estimators 100 --learning_rate 0.01 --max_depth 6
+Run_Prediction.py --model XGBoost --cancer_type SKCM --n_estimators 100 --learning_rate 0.01 --max_depth 6
+Run_Prediction.py --model XGBoost --cancer_type STAD --n_estimators 100 --learning_rate 0.01 --max_depth 6
+Run_Prediction.py --model XGBoost --cancer_type all --n_estimators 100 --learning_rate 0.01 --max_depth 9
+Run_Prediction.py --model XGBoost --cancer_type BLCA --n_estimators 100 --learning_rate 0.01 --max_depth 9
+Run_Prediction.py --model XGBoost --cancer_type COAD --n_estimators 100 --learning_rate 0.01 --max_depth 9
+Run_Prediction.py --model XGBoost --cancer_type HNSC --n_estimators 100 --learning_rate 0.01 --max_depth 9
+Run_Prediction.py --model XGBoost --cancer_type LUAD --n_estimators 100 --learning_rate 0.01 --max_depth 9
+Run_Prediction.py --model XGBoost --cancer_type PAAD --n_estimators 100 --learning_rate 0.01 --max_depth 9
+Run_Prediction.py --model XGBoost --cancer_type SKCM --n_estimators 100 --learning_rate 0.01 --max_depth 9
+Run_Prediction.py --model XGBoost --cancer_type STAD --n_estimators 100 --learning_rate 0.01 --max_depth 9
+Run_Prediction.py --model XGBoost --cancer_type all --n_estimators 100 --learning_rate 0.1 --max_depth 3
+Run_Prediction.py --model XGBoost --cancer_type BLCA --n_estimators 100 --learning_rate 0.1 --max_depth 3
+Run_Prediction.py --model XGBoost --cancer_type COAD --n_estimators 100 --learning_rate 0.1 --max_depth 3
+Run_Prediction.py --model XGBoost --cancer_type HNSC --n_estimators 100 --learning_rate 0.1 --max_depth 3
+Run_Prediction.py --model XGBoost --cancer_type LUAD --n_estimators 100 --learning_rate 0.1 --max_depth 3
+Run_Prediction.py --model XGBoost --cancer_type PAAD --n_estimators 100 --learning_rate 0.1 --max_depth 3
+Run_Prediction.py --model XGBoost --cancer_type SKCM --n_estimators 100 --learning_rate 0.1 --max_depth 3
+Run_Prediction.py --model XGBoost --cancer_type STAD --n_estimators 100 --learning_rate 0.1 --max_depth 3
+Run_Prediction.py --model XGBoost --cancer_type all --n_estimators 100 --learning_rate 0.1 --max_depth 6
+Run_Prediction.py --model XGBoost --cancer_type BLCA --n_estimators 100 --learning_rate 0.1 --max_depth 6
+Run_Prediction.py --model XGBoost --cancer_type COAD --n_estimators 100 --learning_rate 0.1 --max_depth 6
+Run_Prediction.py --model XGBoost --cancer_type HNSC --n_estimators 100 --learning_rate 0.1 --max_depth 6
+Run_Prediction.py --model XGBoost --cancer_type LUAD --n_estimators 100 --learning_rate 0.1 --max_depth 6
+Run_Prediction.py --model XGBoost --cancer_type PAAD --n_estimators 100 --learning_rate 0.1 --max_depth 6
+Run_Prediction.py --model XGBoost --cancer_type SKCM --n_estimators 100 --learning_rate 0.1 --max_depth 6
+Run_Prediction.py --model XGBoost --cancer_type STAD --n_estimators 100 --learning_rate 0.1 --max_depth 6
+Run_Prediction.py --model XGBoost --cancer_type all --n_estimators 100 --learning_rate 0.1 --max_depth 9
+Run_Prediction.py --model XGBoost --cancer_type BLCA --n_estimators 100 --learning_rate 0.1 --max_depth 9
+Run_Prediction.py --model XGBoost --cancer_type COAD --n_estimators 100 --learning_rate 0.1 --max_depth 9
+Run_Prediction.py --model XGBoost --cancer_type HNSC --n_estimators 100 --learning_rate 0.1 --max_depth 9
+Run_Prediction.py --model XGBoost --cancer_type LUAD --n_estimators 100 --learning_rate 0.1 --max_depth 9
+Run_Prediction.py --model XGBoost --cancer_type PAAD --n_estimators 100 --learning_rate 0.1 --max_depth 9
+Run_Prediction.py --model XGBoost --cancer_type SKCM --n_estimators 100 --learning_rate 0.1 --max_depth 9
+Run_Prediction.py --model XGBoost --cancer_type STAD --n_estimators 100 --learning_rate 0.1 --max_depth 9
+Run_Prediction.py --model NeuralNet_1 --cancer_type all
+Run_Prediction.py --model NeuralNet_1 --cancer_type BLCA
+Run_Prediction.py --model NeuralNet_1 --cancer_type COAD
+Run_Prediction.py --model NeuralNet_1 --cancer_type HNSC
+Run_Prediction.py --model NeuralNet_1 --cancer_type LUAD
+Run_Prediction.py --model NeuralNet_1 --cancer_type PAAD
+Run_Prediction.py --model NeuralNet_1 --cancer_type SKCM
+Run_Prediction.py --model NeuralNet_1 --cancer_type STAD
+Run_Prediction.py --model NeuralNet_1 --cancer_type all --learning_rate 0.001 --epochs 10
+Run_Prediction.py --model NeuralNet_1 --cancer_type BLCA --learning_rate 0.001 --epochs 10
+Run_Prediction.py --model NeuralNet_1 --cancer_type COAD --learning_rate 0.001 --epochs 10
+Run_Prediction.py --model NeuralNet_1 --cancer_type HNSC --learning_rate 0.001 --epochs 10
+Run_Prediction.py --model NeuralNet_1 --cancer_type LUAD --learning_rate 0.001 --epochs 10
+Run_Prediction.py --model NeuralNet_1 --cancer_type PAAD --learning_rate 0.001 --epochs 10
+Run_Prediction.py --model NeuralNet_1 --cancer_type SKCM --learning_rate 0.001 --epochs 10
+Run_Prediction.py --model NeuralNet_1 --cancer_type STAD --learning_rate 0.001 --epochs 10
+Run_Prediction.py --model NeuralNet_1 --cancer_type all --learning_rate 0.001 --epochs 20
+Run_Prediction.py --model NeuralNet_1 --cancer_type BLCA --learning_rate 0.001 --epochs 20
+Run_Prediction.py --model NeuralNet_1 --cancer_type COAD --learning_rate 0.001 --epochs 20
+Run_Prediction.py --model NeuralNet_1 --cancer_type HNSC --learning_rate 0.001 --epochs 20
+Run_Prediction.py --model NeuralNet_1 --cancer_type LUAD --learning_rate 0.001 --epochs 20
+Run_Prediction.py --model NeuralNet_1 --cancer_type PAAD --learning_rate 0.001 --epochs 20
+Run_Prediction.py --model NeuralNet_1 --cancer_type SKCM --learning_rate 0.001 --epochs 20
+Run_Prediction.py --model NeuralNet_1 --cancer_type STAD --learning_rate 0.001 --epochs 20
+Run_Prediction.py --model NeuralNet_1 --cancer_type all --learning_rate 0.001 --epochs 50
+Run_Prediction.py --model NeuralNet_1 --cancer_type BLCA --learning_rate 0.001 --epochs 50
+Run_Prediction.py --model NeuralNet_1 --cancer_type COAD --learning_rate 0.001 --epochs 50
+Run_Prediction.py --model NeuralNet_1 --cancer_type HNSC --learning_rate 0.001 --epochs 50
+Run_Prediction.py --model NeuralNet_1 --cancer_type LUAD --learning_rate 0.001 --epochs 50
+Run_Prediction.py --model NeuralNet_1 --cancer_type PAAD --learning_rate 0.001 --epochs 50
+Run_Prediction.py --model NeuralNet_1 --cancer_type SKCM --learning_rate 0.001 --epochs 50
+Run_Prediction.py --model NeuralNet_1 --cancer_type STAD --learning_rate 0.001 --epochs 50
+Run_Prediction.py --model NeuralNet_1 --cancer_type all --learning_rate 0.005 --epochs 10
+Run_Prediction.py --model NeuralNet_1 --cancer_type BLCA --learning_rate 0.005 --epochs 10
+Run_Prediction.py --model NeuralNet_1 --cancer_type COAD --learning_rate 0.005 --epochs 10
+Run_Prediction.py --model NeuralNet_1 --cancer_type HNSC --learning_rate 0.005 --epochs 10
+Run_Prediction.py --model NeuralNet_1 --cancer_type LUAD --learning_rate 0.005 --epochs 10
+Run_Prediction.py --model NeuralNet_1 --cancer_type PAAD --learning_rate 0.005 --epochs 10
+Run_Prediction.py --model NeuralNet_1 --cancer_type SKCM --learning_rate 0.005 --epochs 10
+Run_Prediction.py --model NeuralNet_1 --cancer_type STAD --learning_rate 0.005 --epochs 10
+Run_Prediction.py --model NeuralNet_1 --cancer_type all --learning_rate 0.005 --epochs 20
+Run_Prediction.py --model NeuralNet_1 --cancer_type BLCA --learning_rate 0.005 --epochs 20
+Run_Prediction.py --model NeuralNet_1 --cancer_type COAD --learning_rate 0.005 --epochs 20
+Run_Prediction.py --model NeuralNet_1 --cancer_type HNSC --learning_rate 0.005 --epochs 20
+Run_Prediction.py --model NeuralNet_1 --cancer_type LUAD --learning_rate 0.005 --epochs 20
+Run_Prediction.py --model NeuralNet_1 --cancer_type PAAD --learning_rate 0.005 --epochs 20
+Run_Prediction.py --model NeuralNet_1 --cancer_type SKCM --learning_rate 0.005 --epochs 20
+Run_Prediction.py --model NeuralNet_1 --cancer_type STAD --learning_rate 0.005 --epochs 20
+Run_Prediction.py --model NeuralNet_1 --cancer_type all --learning_rate 0.005 --epochs 50
+Run_Prediction.py --model NeuralNet_1 --cancer_type BLCA --learning_rate 0.005 --epochs 50
+Run_Prediction.py --model NeuralNet_1 --cancer_type COAD --learning_rate 0.005 --epochs 50
+Run_Prediction.py --model NeuralNet_1 --cancer_type HNSC --learning_rate 0.005 --epochs 50
+Run_Prediction.py --model NeuralNet_1 --cancer_type LUAD --learning_rate 0.005 --epochs 50
+Run_Prediction.py --model NeuralNet_1 --cancer_type PAAD --learning_rate 0.005 --epochs 50
+Run_Prediction.py --model NeuralNet_1 --cancer_type SKCM --learning_rate 0.005 --epochs 50
+Run_Prediction.py --model NeuralNet_1 --cancer_type STAD --learning_rate 0.005 --epochs 50
+Run_Prediction.py --model NeuralNet_1 --cancer_type all --learning_rate 0.01 --epochs 10
+Run_Prediction.py --model NeuralNet_1 --cancer_type BLCA --learning_rate 0.01 --epochs 10
+Run_Prediction.py --model NeuralNet_1 --cancer_type COAD --learning_rate 0.01 --epochs 10
+Run_Prediction.py --model NeuralNet_1 --cancer_type HNSC --learning_rate 0.01 --epochs 10
+Run_Prediction.py --model NeuralNet_1 --cancer_type LUAD --learning_rate 0.01 --epochs 10
+Run_Prediction.py --model NeuralNet_1 --cancer_type PAAD --learning_rate 0.01 --epochs 10
+Run_Prediction.py --model NeuralNet_1 --cancer_type SKCM --learning_rate 0.01 --epochs 10
+Run_Prediction.py --model NeuralNet_1 --cancer_type STAD --learning_rate 0.01 --epochs 10
+Run_Prediction.py --model NeuralNet_1 --cancer_type all --learning_rate 0.01 --epochs 20
+Run_Prediction.py --model NeuralNet_1 --cancer_type BLCA --learning_rate 0.01 --epochs 20
+Run_Prediction.py --model NeuralNet_1 --cancer_type COAD --learning_rate 0.01 --epochs 20
+Run_Prediction.py --model NeuralNet_1 --cancer_type HNSC --learning_rate 0.01 --epochs 20
+Run_Prediction.py --model NeuralNet_1 --cancer_type LUAD --learning_rate 0.01 --epochs 20
+Run_Prediction.py --model NeuralNet_1 --cancer_type PAAD --learning_rate 0.01 --epochs 20
+Run_Prediction.py --model NeuralNet_1 --cancer_type SKCM --learning_rate 0.01 --epochs 20
+Run_Prediction.py --model NeuralNet_1 --cancer_type STAD --learning_rate 0.01 --epochs 20
+Run_Prediction.py --model NeuralNet_1 --cancer_type all --learning_rate 0.01 --epochs 50
+Run_Prediction.py --model NeuralNet_1 --cancer_type BLCA --learning_rate 0.01 --epochs 50
+Run_Prediction.py --model NeuralNet_1 --cancer_type COAD --learning_rate 0.01 --epochs 50
+Run_Prediction.py --model NeuralNet_1 --cancer_type HNSC --learning_rate 0.01 --epochs 50
+Run_Prediction.py --model NeuralNet_1 --cancer_type LUAD --learning_rate 0.01 --epochs 50
+Run_Prediction.py --model NeuralNet_1 --cancer_type PAAD --learning_rate 0.01 --epochs 50
+Run_Prediction.py --model NeuralNet_1 --cancer_type SKCM --learning_rate 0.01 --epochs 50
+Run_Prediction.py --model NeuralNet_1 --cancer_type STAD --learning_rate 0.01 --epochs 50
+Run_Prediction.py --model NeuralNet_2 --cancer_type all
+Run_Prediction.py --model NeuralNet_2 --cancer_type BLCA
+Run_Prediction.py --model NeuralNet_2 --cancer_type COAD
+Run_Prediction.py --model NeuralNet_2 --cancer_type HNSC
+Run_Prediction.py --model NeuralNet_2 --cancer_type LUAD
+Run_Prediction.py --model NeuralNet_2 --cancer_type PAAD
+Run_Prediction.py --model NeuralNet_2 --cancer_type SKCM
+Run_Prediction.py --model NeuralNet_2 --cancer_type STAD
+Run_Prediction.py --model NeuralNet_2 --cancer_type all --learning_rate 0.001 --epochs 10
+Run_Prediction.py --model NeuralNet_2 --cancer_type BLCA --learning_rate 0.001 --epochs 10
+Run_Prediction.py --model NeuralNet_2 --cancer_type COAD --learning_rate 0.001 --epochs 10
+Run_Prediction.py --model NeuralNet_2 --cancer_type HNSC --learning_rate 0.001 --epochs 10
+Run_Prediction.py --model NeuralNet_2 --cancer_type LUAD --learning_rate 0.001 --epochs 10
+Run_Prediction.py --model NeuralNet_2 --cancer_type PAAD --learning_rate 0.001 --epochs 10
+Run_Prediction.py --model NeuralNet_2 --cancer_type SKCM --learning_rate 0.001 --epochs 10
+Run_Prediction.py --model NeuralNet_2 --cancer_type STAD --learning_rate 0.001 --epochs 10
+Run_Prediction.py --model NeuralNet_2 --cancer_type all --learning_rate 0.001 --epochs 20
+Run_Prediction.py --model NeuralNet_2 --cancer_type BLCA --learning_rate 0.001 --epochs 20
+Run_Prediction.py --model NeuralNet_2 --cancer_type COAD --learning_rate 0.001 --epochs 20
+Run_Prediction.py --model NeuralNet_2 --cancer_type HNSC --learning_rate 0.001 --epochs 20
+Run_Prediction.py --model NeuralNet_2 --cancer_type LUAD --learning_rate 0.001 --epochs 20
+Run_Prediction.py --model NeuralNet_2 --cancer_type PAAD --learning_rate 0.001 --epochs 20
+Run_Prediction.py --model NeuralNet_2 --cancer_type SKCM --learning_rate 0.001 --epochs 20
+Run_Prediction.py --model NeuralNet_2 --cancer_type STAD --learning_rate 0.001 --epochs 20
+Run_Prediction.py --model NeuralNet_2 --cancer_type all --learning_rate 0.001 --epochs 50
+Run_Prediction.py --model NeuralNet_2 --cancer_type BLCA --learning_rate 0.001 --epochs 50
+Run_Prediction.py --model NeuralNet_2 --cancer_type COAD --learning_rate 0.001 --epochs 50
+Run_Prediction.py --model NeuralNet_2 --cancer_type HNSC --learning_rate 0.001 --epochs 50
+Run_Prediction.py --model NeuralNet_2 --cancer_type LUAD --learning_rate 0.001 --epochs 50
+Run_Prediction.py --model NeuralNet_2 --cancer_type PAAD --learning_rate 0.001 --epochs 50
+Run_Prediction.py --model NeuralNet_2 --cancer_type SKCM --learning_rate 0.001 --epochs 50
+Run_Prediction.py --model NeuralNet_2 --cancer_type STAD --learning_rate 0.001 --epochs 50
+Run_Prediction.py --model NeuralNet_2 --cancer_type all --learning_rate 0.005 --epochs 10
+Run_Prediction.py --model NeuralNet_2 --cancer_type BLCA --learning_rate 0.005 --epochs 10
+Run_Prediction.py --model NeuralNet_2 --cancer_type COAD --learning_rate 0.005 --epochs 10
+Run_Prediction.py --model NeuralNet_2 --cancer_type HNSC --learning_rate 0.005 --epochs 10
+Run_Prediction.py --model NeuralNet_2 --cancer_type LUAD --learning_rate 0.005 --epochs 10
+Run_Prediction.py --model NeuralNet_2 --cancer_type PAAD --learning_rate 0.005 --epochs 10
+Run_Prediction.py --model NeuralNet_2 --cancer_type SKCM --learning_rate 0.005 --epochs 10
+Run_Prediction.py --model NeuralNet_2 --cancer_type STAD --learning_rate 0.005 --epochs 10
+Run_Prediction.py --model NeuralNet_2 --cancer_type all --learning_rate 0.005 --epochs 20
+Run_Prediction.py --model NeuralNet_2 --cancer_type BLCA --learning_rate 0.005 --epochs 20
+Run_Prediction.py --model NeuralNet_2 --cancer_type COAD --learning_rate 0.005 --epochs 20
+Run_Prediction.py --model NeuralNet_2 --cancer_type HNSC --learning_rate 0.005 --epochs 20
+Run_Prediction.py --model NeuralNet_2 --cancer_type LUAD --learning_rate 0.005 --epochs 20
+Run_Prediction.py --model NeuralNet_2 --cancer_type PAAD --learning_rate 0.005 --epochs 20
+Run_Prediction.py --model NeuralNet_2 --cancer_type SKCM --learning_rate 0.005 --epochs 20
+Run_Prediction.py --model NeuralNet_2 --cancer_type STAD --learning_rate 0.005 --epochs 20
+Run_Prediction.py --model NeuralNet_2 --cancer_type all --learning_rate 0.005 --epochs 50
+Run_Prediction.py --model NeuralNet_2 --cancer_type BLCA --learning_rate 0.005 --epochs 50
+Run_Prediction.py --model NeuralNet_2 --cancer_type COAD --learning_rate 0.005 --epochs 50
+Run_Prediction.py --model NeuralNet_2 --cancer_type HNSC --learning_rate 0.005 --epochs 50
+Run_Prediction.py --model NeuralNet_2 --cancer_type LUAD --learning_rate 0.005 --epochs 50
+Run_Prediction.py --model NeuralNet_2 --cancer_type PAAD --learning_rate 0.005 --epochs 50
+Run_Prediction.py --model NeuralNet_2 --cancer_type SKCM --learning_rate 0.005 --epochs 50
+Run_Prediction.py --model NeuralNet_2 --cancer_type STAD --learning_rate 0.005 --epochs 50
+Run_Prediction.py --model NeuralNet_2 --cancer_type all --learning_rate 0.01 --epochs 10
+Run_Prediction.py --model NeuralNet_2 --cancer_type BLCA --learning_rate 0.01 --epochs 10
+Run_Prediction.py --model NeuralNet_2 --cancer_type COAD --learning_rate 0.01 --epochs 10
+Run_Prediction.py --model NeuralNet_2 --cancer_type HNSC --learning_rate 0.01 --epochs 10
+Run_Prediction.py --model NeuralNet_2 --cancer_type LUAD --learning_rate 0.01 --epochs 10
+Run_Prediction.py --model NeuralNet_2 --cancer_type PAAD --learning_rate 0.01 --epochs 10
+Run_Prediction.py --model NeuralNet_2 --cancer_type SKCM --learning_rate 0.01 --epochs 10
+Run_Prediction.py --model NeuralNet_2 --cancer_type STAD --learning_rate 0.01 --epochs 10
+Run_Prediction.py --model NeuralNet_2 --cancer_type all --learning_rate 0.01 --epochs 20
+Run_Prediction.py --model NeuralNet_2 --cancer_type BLCA --learning_rate 0.01 --epochs 20
+Run_Prediction.py --model NeuralNet_2 --cancer_type COAD --learning_rate 0.01 --epochs 20
+Run_Prediction.py --model NeuralNet_2 --cancer_type HNSC --learning_rate 0.01 --epochs 20
+Run_Prediction.py --model NeuralNet_2 --cancer_type LUAD --learning_rate 0.01 --epochs 20
+Run_Prediction.py --model NeuralNet_2 --cancer_type PAAD --learning_rate 0.01 --epochs 20
+Run_Prediction.py --model NeuralNet_2 --cancer_type SKCM --learning_rate 0.01 --epochs 20
+Run_Prediction.py --model NeuralNet_2 --cancer_type STAD --learning_rate 0.01 --epochs 20
+Run_Prediction.py --model NeuralNet_2 --cancer_type all --learning_rate 0.01 --epochs 50
+Run_Prediction.py --model NeuralNet_2 --cancer_type BLCA --learning_rate 0.01 --epochs 50
+Run_Prediction.py --model NeuralNet_2 --cancer_type COAD --learning_rate 0.01 --epochs 50
+Run_Prediction.py --model NeuralNet_2 --cancer_type HNSC --learning_rate 0.01 --epochs 50
+Run_Prediction.py --model NeuralNet_2 --cancer_type LUAD --learning_rate 0.01 --epochs 50
+Run_Prediction.py --model NeuralNet_2 --cancer_type PAAD --learning_rate 0.01 --epochs 50
+Run_Prediction.py --model NeuralNet_2 --cancer_type SKCM --learning_rate 0.01 --epochs 50
+Run_Prediction.py --model NeuralNet_2 --cancer_type STAD --learning_rate 0.01 --epochs 50
+Run_Prediction.py --model NeuralNet_3 --cancer_type all
+Run_Prediction.py --model NeuralNet_3 --cancer_type BLCA
+Run_Prediction.py --model NeuralNet_3 --cancer_type COAD
+Run_Prediction.py --model NeuralNet_3 --cancer_type HNSC
+Run_Prediction.py --model NeuralNet_3 --cancer_type LUAD
+Run_Prediction.py --model NeuralNet_3 --cancer_type PAAD
+Run_Prediction.py --model NeuralNet_3 --cancer_type SKCM
+Run_Prediction.py --model NeuralNet_3 --cancer_type STAD
+Run_Prediction.py --model NeuralNet_3 --cancer_type all --learning_rate 0.001 --epochs 10
+Run_Prediction.py --model NeuralNet_3 --cancer_type BLCA --learning_rate 0.001 --epochs 10
+Run_Prediction.py --model NeuralNet_3 --cancer_type COAD --learning_rate 0.001 --epochs 10
+Run_Prediction.py --model NeuralNet_3 --cancer_type HNSC --learning_rate 0.001 --epochs 10
+Run_Prediction.py --model NeuralNet_3 --cancer_type LUAD --learning_rate 0.001 --epochs 10
+Run_Prediction.py --model NeuralNet_3 --cancer_type PAAD --learning_rate 0.001 --epochs 10
+Run_Prediction.py --model NeuralNet_3 --cancer_type SKCM --learning_rate 0.001 --epochs 10
+Run_Prediction.py --model NeuralNet_3 --cancer_type STAD --learning_rate 0.001 --epochs 10
+Run_Prediction.py --model NeuralNet_3 --cancer_type all --learning_rate 0.001 --epochs 20
+Run_Prediction.py --model NeuralNet_3 --cancer_type BLCA --learning_rate 0.001 --epochs 20
+Run_Prediction.py --model NeuralNet_3 --cancer_type COAD --learning_rate 0.001 --epochs 20
+Run_Prediction.py --model NeuralNet_3 --cancer_type HNSC --learning_rate 0.001 --epochs 20
+Run_Prediction.py --model NeuralNet_3 --cancer_type LUAD --learning_rate 0.001 --epochs 20
+Run_Prediction.py --model NeuralNet_3 --cancer_type PAAD --learning_rate 0.001 --epochs 20
+Run_Prediction.py --model NeuralNet_3 --cancer_type SKCM --learning_rate 0.001 --epochs 20
+Run_Prediction.py --model NeuralNet_3 --cancer_type STAD --learning_rate 0.001 --epochs 20
+Run_Prediction.py --model NeuralNet_3 --cancer_type all --learning_rate 0.001 --epochs 50
+Run_Prediction.py --model NeuralNet_3 --cancer_type BLCA --learning_rate 0.001 --epochs 50
+Run_Prediction.py --model NeuralNet_3 --cancer_type COAD --learning_rate 0.001 --epochs 50
+Run_Prediction.py --model NeuralNet_3 --cancer_type HNSC --learning_rate 0.001 --epochs 50
+Run_Prediction.py --model NeuralNet_3 --cancer_type LUAD --learning_rate 0.001 --epochs 50
+Run_Prediction.py --model NeuralNet_3 --cancer_type PAAD --learning_rate 0.001 --epochs 50
+Run_Prediction.py --model NeuralNet_3 --cancer_type SKCM --learning_rate 0.001 --epochs 50
+Run_Prediction.py --model NeuralNet_3 --cancer_type STAD --learning_rate 0.001 --epochs 50
+Run_Prediction.py --model NeuralNet_3 --cancer_type all --learning_rate 0.005 --epochs 10
+Run_Prediction.py --model NeuralNet_3 --cancer_type BLCA --learning_rate 0.005 --epochs 10
+Run_Prediction.py --model NeuralNet_3 --cancer_type COAD --learning_rate 0.005 --epochs 10
+Run_Prediction.py --model NeuralNet_3 --cancer_type HNSC --learning_rate 0.005 --epochs 10
+Run_Prediction.py --model NeuralNet_3 --cancer_type LUAD --learning_rate 0.005 --epochs 10
+Run_Prediction.py --model NeuralNet_3 --cancer_type PAAD --learning_rate 0.005 --epochs 10
+Run_Prediction.py --model NeuralNet_3 --cancer_type SKCM --learning_rate 0.005 --epochs 10
+Run_Prediction.py --model NeuralNet_3 --cancer_type STAD --learning_rate 0.005 --epochs 10
+Run_Prediction.py --model NeuralNet_3 --cancer_type all --learning_rate 0.005 --epochs 20
+Run_Prediction.py --model NeuralNet_3 --cancer_type BLCA --learning_rate 0.005 --epochs 20
+Run_Prediction.py --model NeuralNet_3 --cancer_type COAD --learning_rate 0.005 --epochs 20
+Run_Prediction.py --model NeuralNet_3 --cancer_type HNSC --learning_rate 0.005 --epochs 20
+Run_Prediction.py --model NeuralNet_3 --cancer_type LUAD --learning_rate 0.005 --epochs 20
+Run_Prediction.py --model NeuralNet_3 --cancer_type PAAD --learning_rate 0.005 --epochs 20
+Run_Prediction.py --model NeuralNet_3 --cancer_type SKCM --learning_rate 0.005 --epochs 20
+Run_Prediction.py --model NeuralNet_3 --cancer_type STAD --learning_rate 0.005 --epochs 20
+Run_Prediction.py --model NeuralNet_3 --cancer_type all --learning_rate 0.005 --epochs 50
+Run_Prediction.py --model NeuralNet_3 --cancer_type BLCA --learning_rate 0.005 --epochs 50
+Run_Prediction.py --model NeuralNet_3 --cancer_type COAD --learning_rate 0.005 --epochs 50
+Run_Prediction.py --model NeuralNet_3 --cancer_type HNSC --learning_rate 0.005 --epochs 50
+Run_Prediction.py --model NeuralNet_3 --cancer_type LUAD --learning_rate 0.005 --epochs 50
+Run_Prediction.py --model NeuralNet_3 --cancer_type PAAD --learning_rate 0.005 --epochs 50
+Run_Prediction.py --model NeuralNet_3 --cancer_type SKCM --learning_rate 0.005 --epochs 50
+Run_Prediction.py --model NeuralNet_3 --cancer_type STAD --learning_rate 0.005 --epochs 50
+Run_Prediction.py --model NeuralNet_3 --cancer_type all --learning_rate 0.01 --epochs 10
+Run_Prediction.py --model NeuralNet_3 --cancer_type BLCA --learning_rate 0.01 --epochs 10
+Run_Prediction.py --model NeuralNet_3 --cancer_type COAD --learning_rate 0.01 --epochs 10
+Run_Prediction.py --model NeuralNet_3 --cancer_type HNSC --learning_rate 0.01 --epochs 10
+Run_Prediction.py --model NeuralNet_3 --cancer_type LUAD --learning_rate 0.01 --epochs 10
+Run_Prediction.py --model NeuralNet_3 --cancer_type PAAD --learning_rate 0.01 --epochs 10
+Run_Prediction.py --model NeuralNet_3 --cancer_type SKCM --learning_rate 0.01 --epochs 10
+Run_Prediction.py --model NeuralNet_3 --cancer_type STAD --learning_rate 0.01 --epochs 10
+Run_Prediction.py --model NeuralNet_3 --cancer_type all --learning_rate 0.01 --epochs 20
+Run_Prediction.py --model NeuralNet_3 --cancer_type BLCA --learning_rate 0.01 --epochs 20
+Run_Prediction.py --model NeuralNet_3 --cancer_type COAD --learning_rate 0.01 --epochs 20
+Run_Prediction.py --model NeuralNet_3 --cancer_type HNSC --learning_rate 0.01 --epochs 20
+Run_Prediction.py --model NeuralNet_3 --cancer_type LUAD --learning_rate 0.01 --epochs 20
+Run_Prediction.py --model NeuralNet_3 --cancer_type PAAD --learning_rate 0.01 --epochs 20
+Run_Prediction.py --model NeuralNet_3 --cancer_type SKCM --learning_rate 0.01 --epochs 20
+Run_Prediction.py --model NeuralNet_3 --cancer_type STAD --learning_rate 0.01 --epochs 20
+Run_Prediction.py --model NeuralNet_3 --cancer_type all --learning_rate 0.01 --epochs 50
+Run_Prediction.py --model NeuralNet_3 --cancer_type BLCA --learning_rate 0.01 --epochs 50
+Run_Prediction.py --model NeuralNet_3 --cancer_type COAD --learning_rate 0.01 --epochs 50
+Run_Prediction.py --model NeuralNet_3 --cancer_type HNSC --learning_rate 0.01 --epochs 50
+Run_Prediction.py --model NeuralNet_3 --cancer_type LUAD --learning_rate 0.01 --epochs 50
+Run_Prediction.py --model NeuralNet_3 --cancer_type PAAD --learning_rate 0.01 --epochs 50
+Run_Prediction.py --model NeuralNet_3 --cancer_type SKCM --learning_rate 0.01 --epochs 50
+Run_Prediction.py --model NeuralNet_3 --cancer_type STAD --learning_rate 0.01 --epochs 50
